@@ -71,7 +71,11 @@ The roofs are colored in realtime for reduced memory usage and better performanc
 
 ## Changes
 
-- 1.1: Brick Post Office skin
+### 1.1
+
+- 1.1.1: Update Brick Post Office props and skin icons
+- 1.1.1: Update Small Post construction and maintenance cost
+- Brick Post Office skin
 
 ## Credits
 

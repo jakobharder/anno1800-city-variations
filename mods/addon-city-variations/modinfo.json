@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.1",
+  "Version": "1.1.2",
   "ModID": "jakob-city-variations",
   "ModioResourceId": 3229836,
   "ModDependencies": [
@@ -14,10 +14,14 @@
   "bundle": [
     "https://github.com/jakobharder/anno1800-shared-mods/releases/download/v4.5.2/decals-industry-jakob.zip",
     "https://github.com/jakobharder/anno1800-shared-mods/releases/download/v4.5.2/decals-city-jakob.zip",
-    "../../sub/jakob-diagonal-ornaments",
-    "../../sub/jakob-small-post",
+    "../../sub/hotels-jakob",
+    "../../sub/diagonal-ornaments-jakob",
     "../../sub/ow-commercial-jakob",
-    "../../sub/skin-post-jakob"
+    "../../sub/ow-small-post-jakob",
+    "../../sub/skin-factories",
+    "../../sub/skin-post",
+    "../../sub/skin-residences",
+    "../../sub/skin-townhall"
   ],
   "Category": {
     "Chinese": "插件",

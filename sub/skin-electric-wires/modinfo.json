@@ -1,11 +1,7 @@
 {
-  "Version": "1.1",
+  "Version": "1.1.1",
   "ModID": "jakob_skin_electric_poles",
   "ModioResourceId": 2812148,
-  "IncompatibleIds": [
-    "MuggenTours_MU",
-    "Spice_ElectricLighting"
-  ],
   "Category": {
     "Chinese": "皮肤",
     "English": "Skin"

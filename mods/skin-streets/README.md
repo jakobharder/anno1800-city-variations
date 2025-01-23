@@ -29,5 +29,6 @@ You can use the following mods to disable features:
 
 ### 2.0
 
+- 2.0.2: fixed compatibility issue with `MuggenTours_MU`
 - merged with `Eletric Poles` mod
 - support for railway and street disable mods

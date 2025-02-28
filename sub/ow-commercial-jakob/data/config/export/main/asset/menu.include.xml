@@ -131,4 +131,24 @@
       </Item>
     </ModOp>
   </Group>
+  <Group Condition="#lion053_downtown">
+    <ModOp Type="add" GUID="2100116108"
+      Path="/Values/ConstructionCategory/BuildingList">
+      <Item>
+        <Building>1500010888</Building>
+      </Item>
+      <Item>
+        <Building>1500010850</Building>
+      </Item>
+      <Item>
+        <Building>1500010856</Building>
+      </Item>
+      <Item>
+        <Building>1500010862</Building>
+      </Item>
+      <Item>
+        <Building>1500010909</Building>
+      </Item>
+    </ModOp>
+  </Group>
 </ModOps>

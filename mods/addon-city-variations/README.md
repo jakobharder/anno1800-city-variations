@@ -73,6 +73,8 @@ The roofs are colored in realtime for reduced memory usage and better performanc
 
 ### 1.1
 
+- 1.1.4: Include commercial street buildings in Lion's Downtown menu
+- 1.1.4: Fixed missing lights of the scholar townhall
 - 1.1.1: Update Brick Post Office props and skin icons
 - 1.1.1: Update Small Post construction and maintenance cost
 - Brick Post Office skin

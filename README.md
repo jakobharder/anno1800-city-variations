@@ -84,11 +84,6 @@ Replaces railroads and NW streets with more fitting textures.
 
 Replaces electric wires and poles with lighter, less distracting models.
 
-## `Compact Menus (Jakob)`
-
-Combine city construction menu icons into categories: tourists, public services, institutions, malls and administration.
-
-
 ## Build and Modify Yourself
 
 The mods are made with the [Modding Tools for Anno](https://marketplace.visualstudio.com/items?itemName=JakobHarder.anno-modding-tools) extension for [VS Code](https://code.visualstudio.com/).

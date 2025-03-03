@@ -25,17 +25,52 @@
         <Text />
       </Values>
     </Asset>
+    <Asset>
+      <Template>Skin</Template>
+      <Values>
+        <Standard>
+          <GUID>1500011609</GUID>
+          <Name>Classic Post Office</Name>
+          <IconFilename>data/ui/jakob/icon_skin_post_default.png</IconFilename>
+        </Standard>
+        <Skin>
+          <SkinName>3741</SkinName>
+          <SkinDescription>23853</SkinDescription>
+          <SkinVariations>
+            <Item>
+              <FileName>data/dlc11/graphics/buildings/public/postoffice/postoffice_01.cfg</FileName>
+            </Item>
+          </SkinVariations>
+          <SkinCategoryDescription>7312</SkinCategoryDescription>
+        </Skin>
+        <Locked>
+          <DefaultLockedState>0</DefaultLockedState>
+        </Locked>
+        <Text />
+      </Values>
+    </Asset>
   </ModOp>
+  <!-- replace default skin -->
+  <ModOp Type="replace" GUID="3741" Path="/Values/Object/Variations/Item[1]">
+    <Item>
+      <Filename>data/jakob/ow-post/scholar-post.cfg</Filename>
+    </Item>
+  </ModOp>
+  <!-- add skins, including old default -->
   <ModOp Type="merge" GUID="3741" Path="/Values/Object/Skins">
+    <DefaultSkinName>1500011578</DefaultSkinName>
+    <DefaultSkinDescription>1500011146</DefaultSkinDescription>
+    <DefaultSkinCategoryName>1500010058</DefaultSkinCategoryName>
     <SkinList />
-    <OverrideDefaultIcon>data/ui/jakob/icon_skin_post_default.png</OverrideDefaultIcon>
+    <OverrideDefaultIcon>data/ui/jakob/icon_skin_post_brick.png</OverrideDefaultIcon>
   </ModOp>
   <ModOp Type="add" GUID="3741" Path="/Values/Object/Skins/SkinList">
+    <Item>
+      <SkinAssetGuid>1500011609</SkinAssetGuid>
+    </Item>
     <Item>
       <SkinAssetGuid>1500011578</SkinAssetGuid>
     </Item>
   </ModOp>
 
-  <ModOp Type="remove" GUID="3741"
-    Path="/Values/Cost/Costs/Item[VectorElement/InheritedIndex&gt;'2']" />
 </ModOps>

@@ -142,22 +142,25 @@
             </Item>
             <!-- restaurants -->
             <Item>
-              <Building>1500010517</Building>
+              <Building>1500011613</Building>
             </Item>
             <Item>
-              <Building>1500010518</Building>
+              <Building>1500011615</Building>
             </Item>
             <Item>
-              <Building>1500010519</Building>
+              <Building>1500011622</Building>
             </Item>
             <Item>
-              <Building>1500010520</Building>
+              <Building>1500011623</Building>
             </Item>
             <Item>
-              <Building>1500010521</Building>
+              <Building>1500011624</Building>
             </Item>
             <Item>
-              <Building>1500010522</Building>
+              <Building>1500011625</Building>
+            </Item>
+            <Item>
+              <Building>1500011626</Building>
             </Item>
           </InfluencedByNeighbors>
           <AssociatedRegions>Moderate</AssociatedRegions>
@@ -554,22 +557,25 @@
             </Item>
             <!-- restaurants -->
             <Item>
-              <Building>1500010517</Building>
+              <Building>1500011613</Building>
             </Item>
             <Item>
-              <Building>1500010518</Building>
+              <Building>1500011615</Building>
             </Item>
             <Item>
-              <Building>1500010519</Building>
+              <Building>1500011622</Building>
             </Item>
             <Item>
-              <Building>1500010520</Building>
+              <Building>1500011623</Building>
             </Item>
             <Item>
-              <Building>1500010521</Building>
+              <Building>1500011624</Building>
             </Item>
             <Item>
-              <Building>1500010522</Building>
+              <Building>1500011625</Building>
+            </Item>
+            <Item>
+              <Building>1500011626</Building>
             </Item>
           </InfluencedByNeighbors>
           <AssociatedRegions>Moderate</AssociatedRegions>
@@ -823,6 +829,312 @@
         <Culture />
         <StorageBase />
         <Warehouse />
+      </Properties>
+    </Template>
+  </ModOp>
+
+  <!-- # Restaurant -->
+  <ModOp Type="addNextSibling" Template="Restaurant">
+    <Template>
+      <Name>Jakob3x3Restaurant</Name>
+      <Properties>
+        <Standard>
+          <InfoDescription>132784</InfoDescription>
+        </Standard>
+        <Building>
+          <SecondPartyRelevant>0</SecondPartyRelevant>
+          <BuildingCategoryName>1500010058</BuildingCategoryName>
+          <InfluencedByNeighbors>
+            <Item>
+              <Building>1010346</Building>
+            </Item>
+            <Item>
+              <Building>1010347</Building>
+            </Item>
+            <!-- Skyscrapers -->
+            <Item>
+					    <Building>601888</Building>
+            </Item>
+            <Item>
+              <Building>601889</Building>
+            </Item>
+            <Item>
+              <Building>601890</Building>
+            </Item>
+            <Item>
+              <Building>601882</Building>
+            </Item>
+            <Item>
+              <Building>601883</Building>
+            </Item>
+            <Item>
+              <Building>601884</Building>
+            </Item>
+            <Item>
+              <Building>601886</Building>
+            </Item>
+            <Item>
+              <Building>601891</Building>
+            </Item>
+            <!-- Terraced Artisan Level 2 -->
+            <Item>
+              <Building>1500010226</Building>
+            </Item>
+            <!-- Downtown -->
+            <Item>
+              <Building>2100116112</Building>
+            </Item>
+            <!-- Commercial Street -->
+            <Item>
+              <Building>1500011613</Building>
+            </Item>
+          </InfluencedByNeighbors>
+          <BuildingBlockPool>
+            <Single>
+              <Pool>
+                <Item>
+                  <Variation>3</Variation>
+                </Item>
+              </Pool>
+            </Single>
+            <DontCare />
+            <Corner>
+              <Pool>
+                <Item>
+                  <DirectionOffet>1</DirectionOffet>
+                  <Variation>0</Variation>
+                </Item>
+              </Pool>
+            </Corner>
+            <Mid>
+              <Pool>
+                <Item>
+                  <Variation>1</Variation>
+                </Item>
+              </Pool>
+            </Mid>
+            <End>
+              <Pool>
+                <Item>
+                  <DirectionOffet>2</DirectionOffet>
+                  <Variation>2</Variation>
+                </Item>
+              </Pool>
+            </End>
+          </BuildingBlockPool>
+          <InfluencedVariationDirection>
+            <Item>
+              <!-- single -->
+              <Direction>0</Direction>
+              <Type>Single</Type>
+            </Item>
+            <Item>
+              <!-- end, south-west -->
+              <Direction>1</Direction>
+              <Type>End</Type>
+            </Item>
+            <Item>
+              <!-- end, south-east -->
+              <Direction>2</Direction>
+              <Type>End</Type>
+            </Item>
+            <Item>
+              <!-- corner, south -->
+              <Direction>2</Direction>
+              <Type>Corner</Type>
+            </Item>
+            <Item>
+              <!-- end, north-east -->
+              <Direction>3</Direction>
+              <Type>End</Type>
+            </Item>
+            <Item>
+              <!-- mid, south-west to north-east -->
+              <Direction>1</Direction>
+              <Type>Mid</Type>
+            </Item>
+            <Item>
+              <!-- corner, east -->
+              <Direction>3</Direction>
+              <Type>Corner</Type>
+            </Item>
+            <Item>
+              <!-- T, front facing south-east -->
+              <Direction>3</Direction>
+              <Type>Mid</Type>
+            </Item>
+            <Item>
+              <!-- end, north-west -->
+              <Type>End</Type>
+            </Item>
+            <Item>
+              <!-- corner, west -->
+              <Direction>1</Direction>
+              <Type>Corner</Type>
+            </Item>
+            <Item>
+              <!-- mid, north-west to south-east -->
+              <Type>Mid</Type>
+            </Item>
+            <Item>
+              <!-- T, front facing south-west  -->
+              <Direction>2</Direction>
+              <Type>Mid</Type>
+            </Item>
+            <Item>
+              <!-- corner, north -->
+              <Type>Corner</Type>
+            </Item>
+            <Item>
+              <!-- T, front facing north-west -->
+              <Direction>1</Direction>
+              <Type>Mid</Type>
+            </Item>
+            <Item>
+              <!-- T, front facing north-east -->
+              <Type>Mid</Type>
+            </Item>
+            <Item>
+              <!-- crossing -->
+            </Item>
+          </InfluencedVariationDirection>
+          <AllowChangeVariation>1</AllowChangeVariation>
+        </Building>
+        <Blocking />
+        <Object />
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>1000</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010196</Ingredient>
+              <Amount>40</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010205</Ingredient>
+              <Amount>35</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Mesh />
+        <Selection>
+          <GUIType>Production</GUIType>
+          <StaticHelpEntryPoint>TouristSeasonVenues</StaticHelpEntryPoint>
+          <OnSelection>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <ActionList />
+            </Values>
+          </OnSelection>
+          <ParticipantMessageTrigger>ClickRecipeBuffFactory</ParticipantMessageTrigger>
+          <ParticipantMessageArcheType>Resident_Tourist</ParticipantMessageArcheType>
+        </Selection>
+        <Text />
+        <Constructable />
+        <Locked>
+          <DLCDependency>410084</DLCDependency>
+        </Locked>
+        <SoundEmitter>
+          <DestroySounds>
+            <Item>
+              <Sound>9818756</Sound>
+            </Item>
+          </DestroySounds>
+          <ConstructionSounds>
+            <BuildFailed>
+              <Item>
+                <Sound>9818387</Sound>
+              </Item>
+            </BuildFailed>
+            <BuildMoveStart>
+              <Item>
+                <Sound>9818755</Sound>
+              </Item>
+            </BuildMoveStart>
+            <BuildMoveSuccess>
+              <Item>
+                <Sound>203995</Sound>
+              </Item>
+            </BuildMoveSuccess>
+            <BuildMoveEnd>
+              <Item>
+                <Sound>200141</Sound>
+              </Item>
+            </BuildMoveEnd>
+          </ConstructionSounds>
+        </SoundEmitter>
+        <FactoryBase>
+          <CycleTime>60</CycleTime>
+          <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
+          <ClampedMaxTransporterLogisticCost>60</ClampedMaxTransporterLogisticCost>
+        </FactoryBase>
+        <LogisticNode>
+          <ResetOnGUIDChange>1</ResetOnGUIDChange>
+          <TransporterCountMax>0</TransporterCountMax>
+        </LogisticNode>
+        <Maintenance>
+          <ConsumerPriority>1</ConsumerPriority>
+          <IncomeCategory>Restaurants</IncomeCategory>
+          <Maintenances>
+            <Item>
+              <Product>1010017</Product>
+              <Amount>500</Amount>
+            </Item>
+            <Item>
+              <Product>132723</Product>
+              <Amount>120</Amount>
+            </Item>
+          </Maintenances>
+        </Maintenance>
+        <Industrializable>
+          <BoostedByIndustrialization>0</BoostedByIndustrialization>
+        </Industrializable>
+        <IncidentInfectable>
+          <Infectable>
+            <Riot>
+              <Base>0</Base>
+              <Escalated>0</Escalated>
+            </Riot>
+            <Explosion>
+              <Base>0</Base>
+              <Escalated>0</Escalated>
+            </Explosion>
+          </Infectable>
+          <IncidentInfectionChanceFactors>
+            <Fire>
+              <DensityDistance>20</DensityDistance>
+              <FactoryProductivityFactor>0.1</FactoryProductivityFactor>
+              <FactoryUndertimeFactor>0.05</FactoryUndertimeFactor>
+            </Fire>
+          </IncidentInfectionChanceFactors>
+        </IncidentInfectable>
+        <Electrifiable />
+        <AmbientMoodProvider />
+        <Attackable>
+          <MaximumHitPoints>2000</MaximumHitPoints>
+          <HasRuinState>1</HasRuinState>
+          <AttackableType>IslandBuilding</AttackableType>
+        </Attackable>
+        <UpgradeList />
+        <Pausable>
+          <CanPauseManually>0</CanPauseManually>
+        </Pausable>
+        <FeedbackController />
+        <Infolayer />
+        <BuffFactory>
+          <BaseBuffScope>Radius</BaseBuffScope>
+          <ProductionBuffDistance>40</ProductionBuffDistance>
+        </BuffFactory>
+        <RecipeBuilding>
+          <RecipeBuildingType>Restaurant</RecipeBuildingType>
+        </RecipeBuilding>
+        <BusActivation>
+          <ShutDownCompletelyWhenMissingBus>1</ShutDownCompletelyWhenMissingBus>
+        </BusActivation>
+        <Culture />
+        <Nameable />
       </Properties>
     </Template>
   </ModOp>

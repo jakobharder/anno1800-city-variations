@@ -1,5 +1,8 @@
 <ModOps>
   <Include File="./menu.include.xml" />
+  <Include File="./restaurant.include.xml" />
+  <Include File="./cafe.include.xml" />
+  <Include File="./bar.include.xml" />
 
   <!-- # Minimall: Department Store -->
   <ModOp GUID='135210' Type="addNextSibling">
@@ -2149,6 +2152,7 @@
           </InfluencedByNeighbors>
           <SecondPartyRelevant>0</SecondPartyRelevant>
           <BuildingCategoryName>1500010058</BuildingCategoryName>
+          <PickingAsset>1500011613</PickingAsset>
         </Building>
         <Object>
           <Variations>
@@ -2646,7 +2650,7 @@
 
   <!-- # neighbors, target pools, ... -->
   <!-- add neighbor influences -->
-  <ModOp GUID="1010346,1010347" Type="add" Path="/Values/Building/InfluencedByNeighbors">
+  <ModOp GUID="1010346,1010347,1500011613" Type="add" Path="/Values/Building/InfluencedByNeighbors">
     <Item>
       <Building>1500010850</Building>
     </Item>

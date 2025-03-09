@@ -1,0 +1,10 @@
+variant:
+  source: restaurant_single.cfg
+  modifications:
+    - xpath: //Config/Models/Config/Materials/Config
+      cModelDiffTex: data/dlc08/graphics/buildings/public/restaurant/maps/restaurant_02_diff.psd
+      cModelNormalTex: data/dlc08/graphics/buildings/public/restaurant/maps/restaurant_02_norm.psd
+    - xpath: //Config/Files/Config[Name='file_o_19_restaurant_03']
+      FileName: data\dlc08\graphics\buildings\public\restaurant\props\pub_flag\restaurant_02.cfg
+    - xpath: //Config/Files/Config[Name='file_o_20_restaurant_03']
+      FileName: data\dlc08\graphics\buildings\public\restaurant\props\pub_flag\restaurant_02.cfg

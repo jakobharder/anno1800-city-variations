@@ -8,6 +8,38 @@
   <Include File="./furniture.include.xml" />
   <Include File="./drug.include.xml" />
 
+  <ModOp Type="addNextSibling" GUID="1010346">
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>1500011673</GUID>
+          <Name>3x3 infotip</Name>
+          <IconFilename>data/ui/jakob/icon_3x3_infotip.png</IconFilename>
+        </Standard>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>1500011674</GUID>
+          <Name>3x3 infotip description</Name>
+        </Standard>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>1500011675</GUID>
+          <Name>3x3 production cycle</Name>
+          <IconFilename>data/ui/2kimages/main/icons/icon_timer_0.png</IconFilename>
+        </Standard>
+      </Values>
+    </Asset>
+  </ModOp>
+
   <!-- # neighbors, target pools, ... -->
   <!-- add neighbor influences -->
   <ModOp GUID="1010346,1010347,1500011613" Type="add" Path="/Values/Building/InfluencedByNeighbors">
@@ -144,7 +176,7 @@
           <GUID>1500010888</GUID>
           <Name>mall_warehouse</Name>
           <IconFilename>data/ui/jakob/icon_mallstorage.png</IconFilename>
-          <InfoDescription>137243</InfoDescription>
+          <InfoDescription>1500011674</InfoDescription>
         </Standard>
         <Building>
           <BuildingType>Logistic</BuildingType>
@@ -241,7 +273,7 @@
           <GUID>1500010909</GUID>
           <Name>mall_ornamental</Name>
           <IconFilename>data/ui/jakob/icon_mall_ornamental.png</IconFilename>
-          <InfoDescription>137243</InfoDescription>
+          <InfoDescription>1500011674</InfoDescription>
         </Standard>
         <Building>
           <BuildingType>Other</BuildingType>

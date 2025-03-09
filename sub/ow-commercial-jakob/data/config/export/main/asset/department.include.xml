@@ -8,10 +8,10 @@
           <GUID>1500010850</GUID>
           <Name>department_blank</Name>
           <IconFilename>data/ui/jakob/icon_mall_3x3.png</IconFilename>
-          <InfoDescription>137243</InfoDescription>
+          <InfoDescription>1500011674</InfoDescription>
         </Standard>
         <Text>
-          <TextOverride>135192</TextOverride>
+          <TextOverride>135100</TextOverride>
         </Text>
         <Building>
           <PickingAsset>1500010850</PickingAsset>

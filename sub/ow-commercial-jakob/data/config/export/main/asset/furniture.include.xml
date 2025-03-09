@@ -9,6 +9,9 @@
           <Name>furniture_blank</Name>
           <IconFilename>data/ui/jakob/icon_furniture_3x3.png</IconFilename>
         </Standard>
+        <Text>
+          <TextOverride>135099</TextOverride>
+        </Text>
         <Building>
           <PickingAsset>1500010856</PickingAsset>
           <BuildingCategoryName>1500010058</BuildingCategoryName>
@@ -51,6 +54,9 @@
           <Name>furniture_lamp</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_bankerlamp.png</IconFilename>
         </Standard>
+        <Text>
+          <TextOverride>135105</TextOverride>
+        </Text>
         <LogisticNode>
           <TransporterCountMax>1</TransporterCountMax>
           <TransporterAsset>120028</TransporterAsset>
@@ -129,6 +135,9 @@
           <Name>furniture_screen</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_paravent.png</IconFilename>
         </Standard>
+        <Text>
+          <TextOverride>135121</TextOverride>
+        </Text>
         <FactoryBase>
           <FactoryInputs>
             <Item>
@@ -190,6 +199,9 @@
           <Name>furniture_desk</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_secretary.png</IconFilename>
         </Standard>
+        <Text>
+          <TextOverride>135120</TextOverride>
+        </Text>
         <FactoryBase>
           <FactoryInputs>
             <Item>
@@ -251,6 +263,9 @@
           <Name>furniture_bed</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_canopy.png</IconFilename>
         </Standard>
+        <Text>
+          <TextOverride>135122</TextOverride>
+        </Text>
         <FactoryBase>
           <FactoryInputs>
             <Item>
@@ -312,6 +327,9 @@
           <Name>furniture_chair</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_chesterfield.png</IconFilename>
         </Standard>
+        <Text>
+          <TextOverride>135123</TextOverride>
+        </Text>
         <FactoryBase>
           <FactoryInputs>
             <Item>
@@ -403,6 +421,9 @@
           <GUID>1500010877</GUID>
           <Name>recipe_lamp</Name>
         </Standard>
+        <Text>
+          <TextOverride>135106</TextOverride>
+        </Text>
         <Recipe>
           <RecipeBuilding>1500010857</RecipeBuilding>
         </Recipe>
@@ -416,6 +437,9 @@
           <GUID>1500010878</GUID>
           <Name>recipe_screen</Name>
         </Standard>
+        <Text>
+          <TextOverride>135124</TextOverride>
+        </Text>
         <Recipe>
           <RecipeBuilding>1500010858</RecipeBuilding>
         </Recipe>
@@ -429,6 +453,9 @@
           <GUID>1500010879</GUID>
           <Name>recipedesk</Name>
         </Standard>
+        <Text>
+          <TextOverride>135125</TextOverride>
+        </Text>
         <Recipe>
           <RecipeBuilding>1500010859</RecipeBuilding>
         </Recipe>
@@ -442,6 +469,9 @@
           <GUID>1500010880</GUID>
           <Name>recipe_bed</Name>
         </Standard>
+        <Text>
+          <TextOverride>135126</TextOverride>
+        </Text>
         <Recipe>
           <RecipeBuilding>1500010860</RecipeBuilding>
         </Recipe>
@@ -455,6 +485,9 @@
           <GUID>1500010881</GUID>
           <Name>recipe_chair</Name>
         </Standard>
+        <Text>
+          <TextOverride>135127</TextOverride>
+        </Text>
         <Recipe>
           <RecipeBuilding>1500010861</RecipeBuilding>
         </Recipe>

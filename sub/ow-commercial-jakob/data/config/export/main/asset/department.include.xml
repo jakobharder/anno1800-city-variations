@@ -11,7 +11,7 @@
           <InfoDescription>137243</InfoDescription>
         </Standard>
         <Text>
-          <TextOverride>135100</TextOverride>
+          <TextOverride>135192</TextOverride>
         </Text>
         <Building>
           <PickingAsset>1500010850</PickingAsset>
@@ -76,6 +76,9 @@
           <Name>department_toaster</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_toaster.png</IconFilename>
         </Standard>
+        <Text>
+          <TextOverride>135103</TextOverride>
+        </Text>
         <LogisticNode>
           <TransporterCountMax>1</TransporterCountMax>
           <TransporterAsset>120028</TransporterAsset>
@@ -154,6 +157,9 @@
           <Name>department_vacuumcleaner</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_vacuumcleaner.png</IconFilename>
         </Standard>
+        <Text>
+          <TextOverride>135188</TextOverride>
+        </Text>
         <FactoryBase>
           <FactoryInputs>
             <Item>
@@ -215,6 +221,9 @@
           <Name>department_tableware</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_dishes.png</IconFilename>
         </Standard>
+        <Text>
+          <TextOverride>135187</TextOverride>
+        </Text>
         <FactoryBase>
           <FactoryInputs>
             <Item>
@@ -276,6 +285,9 @@
           <Name>department_fridge</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_refrigerator.png</IconFilename>
         </Standard>
+        <Text>
+          <TextOverride>135189</TextOverride>
+        </Text>
         <FactoryBase>
           <FactoryInputs>
             <Item>
@@ -339,6 +351,9 @@
           <Name>department_bags</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_suitcase.png</IconFilename>
         </Standard>
+        <Text>
+          <TextOverride>135190</TextOverride>
+        </Text>
         <FactoryBase>
           <FactoryInputs>
             <Item>
@@ -432,6 +447,9 @@
           <GUID>1500010871</GUID>
           <Name>recipe_toaster</Name>
         </Standard>
+        <Text>
+          <TextOverride>135104</TextOverride>
+        </Text>
         <Recipe>
           <RecipeBuilding>1500010851</RecipeBuilding>
         </Recipe>
@@ -445,6 +463,9 @@
           <GUID>1500010872</GUID>
           <Name>recipe_vacuumcleaner</Name>
         </Standard>
+        <Text>
+          <TextOverride>135204</TextOverride>
+        </Text>
         <Recipe>
           <RecipeBuilding>1500010852</RecipeBuilding>
         </Recipe>
@@ -458,6 +479,9 @@
           <GUID>1500010873</GUID>
           <Name>recipe_tableware</Name>
         </Standard>
+        <Text>
+          <TextOverride>135203</TextOverride>
+        </Text>
         <Recipe>
           <RecipeBuilding>1500010853</RecipeBuilding>
         </Recipe>
@@ -471,6 +495,9 @@
           <GUID>1500010874</GUID>
           <Name>recipe_refrigerator</Name>
         </Standard>
+        <Text>
+          <TextOverride>135205</TextOverride>
+        </Text>
         <Recipe>
           <RecipeBuilding>1500010854</RecipeBuilding>
         </Recipe>
@@ -484,6 +511,9 @@
           <GUID>1500010875</GUID>
           <Name>recipe_bags</Name>
         </Standard>
+        <Text>
+          <TextOverride>135206</TextOverride>
+        </Text>
         <Recipe>
           <RecipeBuilding>1500010855</RecipeBuilding>
         </Recipe>

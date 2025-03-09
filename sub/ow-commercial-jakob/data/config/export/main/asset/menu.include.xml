@@ -119,11 +119,12 @@
         <PlatformVisibility>Console</PlatformVisibility>
       </Item>
     </ModOp>
-    <ModOp Type="addNextSibling" GUID="500094"
+    <!-- <ModOp Type="addNextSibling" GUID="500094"
       Path="/Values/ConstructionCategory/BuildingList/Item[Building='132780' or position()=last()][1]">
       <Item>
         <Building>1500011613</Building>
         <CompactTourist />
+        <CompactVenue />
         <Tourist>250</Tourist>
         <PlatformVisibility>Console</PlatformVisibility>
       </Item>
@@ -133,29 +134,40 @@
       <Item>
         <Building>1500011632</Building>
         <CompactTourist />
+        <CompactVenue />
         <Tourist>550</Tourist>
         <PlatformVisibility>Console</PlatformVisibility>
       </Item>
-    </ModOp>
+    </ModOp> -->
     <ModOp Type="addNextSibling" GUID="500094"
       Path="/Values/ConstructionCategory/BuildingList/Item[Building='132781' or position()=last()][1]">
       <Item>
+        <Building>1500011613</Building>
+        <CompactTourist />
+        <CompactVenue />
+        <Tourist>1500</Tourist>
+        <PlatformVisibility>Console</PlatformVisibility>
+      </Item>
+      <Item>
+        <Building>1500011632</Building>
+        <CompactTourist />
+        <CompactVenue />
+        <Tourist>1500</Tourist>
+        <PlatformVisibility>Console</PlatformVisibility>
+      </Item>
+      <Item>
         <Building>1500011652</Building>
         <CompactTourist />
+        <CompactVenue />
         <Tourist>1500</Tourist>
         <PlatformVisibility>Console</PlatformVisibility>
       </Item>
     </ModOp>
-    <ModOp Type="addNextSibling" GUID="132779"
+    <!-- <ModOp Type="addNextSibling" GUID="132779"
       Path="/Values/ConstructionCategory/BuildingList/Item[Tourist&lt;=250][last()]">
-      <!-- <Item>
-        <Building>1500010517</Building>
-        <CompactTourist />
-        <Tourist>250</Tourist>
-      </Item> -->
       <Item>
         <Building>1500011613</Building>
-        <CompactTourist />
+        <CompactVenue />
         <Tourist>250</Tourist>
       </Item>
     </ModOp>
@@ -163,15 +175,25 @@
       Path="/Values/ConstructionCategory/BuildingList/Item[Tourist&lt;=550][last()]">
       <Item>
         <Building>1500011632</Building>
-        <CompactTourist />
+        <CompactVenue />
         <Tourist>550</Tourist>
       </Item>
-    </ModOp>
+    </ModOp> -->
     <ModOp Type="addNextSibling" GUID="132779"
       Path="/Values/ConstructionCategory/BuildingList/Item[Tourist&lt;=1500][last()]">
       <Item>
+        <Building>1500011613</Building>
+        <CompactVenue />
+        <Tourist>1500</Tourist>
+      </Item>
+      <Item>
+        <Building>1500011632</Building>
+        <CompactVenue />
+        <Tourist>1500</Tourist>
+      </Item>
+      <Item>
         <Building>1500011652</Building>
-        <CompactTourist />
+        <CompactVenue />
         <Tourist>1500</Tourist>
       </Item>
     </ModOp>

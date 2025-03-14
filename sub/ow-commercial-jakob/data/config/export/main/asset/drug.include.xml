@@ -8,7 +8,8 @@
           <GUID>1500010862</GUID>
           <Name>drugstore_blank</Name>
           <IconFilename>data/ui/jakob/icon_drugstore_3x3.png</IconFilename>
-          <InfluenceFarmersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
+          <AdjustToNeighbors>Farmer</AdjustToNeighbors>
         </Standard>
         <Text>
           <TextOverride>134629</TextOverride>
@@ -54,7 +55,7 @@
           <GUID>1500010863</GUID>
           <Name>drug_toothpaste</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_toothpaste.png</IconFilename>
-          <InfluenceFarmersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>134631</TextOverride>
@@ -136,7 +137,7 @@
           <GUID>1500010864</GUID>
           <Name>drug_cleaner</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_detergent.png</IconFilename>
-          <InfluenceFarmersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>135191</TextOverride>
@@ -201,7 +202,7 @@
           <GUID>1500010865</GUID>
           <Name>drug_lipstick</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_lipstick.png</IconFilename>
-          <InfluenceFarmersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>135192</TextOverride>
@@ -266,7 +267,7 @@
           <GUID>1500010866</GUID>
           <Name>drug_facecream</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_facecreme.png</IconFilename>
-          <InfluenceFarmersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>135193</TextOverride>
@@ -331,7 +332,7 @@
           <GUID>1500010867</GUID>
           <Name>drug_pomade</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_pomade.png</IconFilename>
-          <InfluenceFarmersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>135194</TextOverride>

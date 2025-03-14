@@ -9,6 +9,8 @@
           <Name>department_blank</Name>
           <IconFilename>data/ui/jakob/icon_mall_3x3.png</IconFilename>
           <InfoDescription>1500011674</InfoDescription>
+          <NeighborLevel>Engineer</NeighborLevel>
+          <AdjustToNeighbors>Farmer</AdjustToNeighbors>
         </Standard>
         <Text>
           <TextOverride>135100</TextOverride>
@@ -16,7 +18,6 @@
         <Building>
           <PickingAsset>1500010850</PickingAsset>
           <BuildingCategoryName>1500010058</BuildingCategoryName>
-          <InfluencedByFarmersUp />
         </Building>
         <Object>
           <Variations>
@@ -76,7 +77,7 @@
           <GUID>1500010851</GUID>
           <Name>department_toaster</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_toaster.png</IconFilename>
-          <InfluenceFarmersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>135103</TextOverride>
@@ -158,7 +159,7 @@
           <GUID>1500010852</GUID>
           <Name>department_vacuumcleaner</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_vacuumcleaner.png</IconFilename>
-          <InfluenceFarmersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>135188</TextOverride>
@@ -223,7 +224,7 @@
           <GUID>1500010853</GUID>
           <Name>department_tableware</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_dishes.png</IconFilename>
-          <InfluenceFarmersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>135187</TextOverride>
@@ -288,7 +289,7 @@
           <GUID>1500010854</GUID>
           <Name>department_fridge</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_refrigerator.png</IconFilename>
-          <InfluenceFarmersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>135189</TextOverride>
@@ -355,7 +356,7 @@
           <GUID>1500010855</GUID>
           <Name>department_bags</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_suitcase.png</IconFilename>
-          <InfluenceFarmersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>135190</TextOverride>

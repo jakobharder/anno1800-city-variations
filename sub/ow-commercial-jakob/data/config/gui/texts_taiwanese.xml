@@ -2,15 +2,31 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
       <GUID>1500010868</GUID>
-      <Text>Commercial Street</Text> <!-- menu: commercial street -->
+      <Text>商業街</Text>
     </Text>
     <Text>
       <GUID>1500010888</GUID>
-      <Text>Store Warehouse</Text> <!-- building: warehouse -->
+      <Text>商店倉庫</Text>
     </Text>
     <Text>
       <GUID>1500010909</GUID>
-      <Text>Ornamental Store</Text> <!-- building: ornamental store -->
+      <Text>裝飾商店</Text>
+    </Text>
+    <Text>
+      <GUID>1500011673</GUID>
+      <Text>適應住宅區</Text>
+    </Text>
+    <Text>
+      <GUID>1500011674</GUID>
+      <Text>3×3建築犧牲範圍、生產力和維護，以減少佔地面積。</Text>
+    </Text>
+    <Text>
+      <GUID>1500011675</GUID>
+      <Text>處理速度</Text>
+    </Text>
+    <Text>
+      <GUID>1500011677</GUID>
+      <Text>匹配顏色，因為你喜歡一致性。</Text>
     </Text>
   </ModOp>
 </ModOps>

@@ -2,15 +2,15 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
       <GUID>1500010868</GUID>
-      <Text>Commercial Street</Text> <!-- menu: commercial street -->
+      <Text>Commercial Street</Text>
     </Text>
     <Text>
       <GUID>1500010888</GUID>
-      <Text>Store Warehouse</Text> <!-- building: warehouse -->
+      <Text>Store Warehouse</Text>
     </Text>
     <Text>
       <GUID>1500010909</GUID>
-      <Text>Ornamental Store</Text> <!-- building: ornamental store -->
+      <Text>Ornamental Store</Text>
     </Text>
     <Text>
       <GUID>1500011673</GUID>
@@ -23,6 +23,10 @@
     <Text>
       <GUID>1500011675</GUID>
       <Text>Processing Speed</Text>
+    </Text>
+    <Text>
+      <GUID>1500011677</GUID>
+      <Text>Match colors because you like consistency.</Text>
     </Text>
   </ModOp>
 </ModOps>

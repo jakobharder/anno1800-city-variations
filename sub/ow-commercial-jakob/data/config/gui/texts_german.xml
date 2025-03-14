@@ -2,15 +2,31 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
       <GUID>1500010868</GUID>
-      <Text>Einkaufsstraße</Text> <!-- menu: commercial street -->
+      <Text>Einkaufsstraße</Text>
     </Text>
     <Text>
       <GUID>1500010888</GUID>
-      <Text>Kaufhauslager</Text> <!-- building: warehouse -->
+      <Text>Kaufhauslager</Text>
     </Text>
     <Text>
       <GUID>1500010909</GUID>
-      <Text>Dekoratives Kaufhaus</Text> <!-- building: ornamental store -->
+      <Text>Dekoratives Kaufhaus</Text>
     </Text>
+    <Text>
+    <GUID>1500011673</GUID>
+    <Text>Passt sich Wohnblöcken an</Text>
+  </Text>
+  <Text>
+    <GUID>1500011674</GUID>
+    <Text>3×3 Gebäude tauschen Reichweite, Produktivität und Kosten für eine kleinere Grundfläche ein.</Text>
+  </Text>
+  <Text>
+    <GUID>1500011675</GUID>
+    <Text>Verarbeitungsgeschwindigkeit</Text>
+  </Text>
+  <Text>
+    <GUID>1500011677</GUID>
+    <Text>Passen Sie die Farben an, weil Sie Konsistenz mögen.</Text>
+  </Text>
   </ModOp>
 </ModOps>

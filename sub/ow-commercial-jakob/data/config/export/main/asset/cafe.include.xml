@@ -7,10 +7,11 @@
           <GUID>1500011632</GUID>
           <Name>3x3 cafe</Name>
           <IconFilename>data/ui/jakob/icon_cafe_3x3.png</IconFilename>
+          <AdjustToNeighbors>Engineer</AdjustToNeighbors>
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Building>
           <PickingAsset>1500011632</PickingAsset>
-          <InfluencedByEngineersUp />
         </Building>
         <Object>
           <Variations>
@@ -54,7 +55,7 @@
           <GUID>1500011640</GUID>
           <Name>donut cafe</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/recipes/icon_berliner.png</IconFilename>
-          <InfluenceEngineersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>132753</TextOverride>
@@ -128,7 +129,7 @@
           <GUID>1500011641</GUID>
           <Name>eclair cafe</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/recipes/icon_eclair.png</IconFilename>
-          <InfluenceEngineersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>133347</TextOverride>
@@ -202,7 +203,7 @@
           <GUID>1500011642</GUID>
           <Name>palmier cafe</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/recipes/icon_palmier_biscuit.png</IconFilename>
-          <InfluenceEngineersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>133348</TextOverride>
@@ -277,7 +278,7 @@
           <GUID>1500011643</GUID>
           <Name>tartare cafe</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/recipes/icon_venison_tartare.png</IconFilename>
-          <InfluenceEngineersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>132784</TextOverride>
@@ -351,7 +352,7 @@
           <GUID>1500011644</GUID>
           <Name>banana cafe</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/recipes/icon_banana_surprise.png</IconFilename>
-          <InfluenceEngineersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>133350</TextOverride>
@@ -425,7 +426,7 @@
           <GUID>1500011645</GUID>
           <Name>ice cafe</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/production_goods/icon_icecream_cup.png</IconFilename>
-          <InfluenceEngineersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>6138</TextOverride>

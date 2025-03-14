@@ -7,10 +7,11 @@
           <GUID>1500011652</GUID>
           <Name>3x3 bar</Name>
           <IconFilename>data/ui/jakob/icon_bar_3x3.png</IconFilename>
+          <AdjustToNeighbors>Engineer</AdjustToNeighbors>
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Building>
           <PickingAsset>1500011652</PickingAsset>
-          <InfluencedByEngineersUp />
         </Building>
         <Object>
           <Variations>
@@ -48,7 +49,7 @@
           <GUID>1500011654</GUID>
           <Name>daiquiri bar</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/recipes/icon_daiquiri_tropic.png</IconFilename>
-          <InfluenceEngineersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>132752</TextOverride>
@@ -128,7 +129,7 @@
           <GUID>1500011655</GUID>
           <Name>muscovy bar</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/recipes/icon_black_muscovy.png</IconFilename>
-          <InfluenceEngineersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>133342</TextOverride>
@@ -208,7 +209,7 @@
           <GUID>1500011656</GUID>
           <Name>montmatre bar</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/recipes/icon_montmatre.png</IconFilename>
-          <InfluenceEngineersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>133343</TextOverride>
@@ -288,7 +289,7 @@
           <GUID>1500011657</GUID>
           <Name>glog bar</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/recipes/icon_glogg.png</IconFilename>
-          <InfluenceEngineersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>133345</TextOverride>
@@ -368,7 +369,7 @@
           <GUID>1500011658</GUID>
           <Name>banana bar</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/recipes/icon_enbesa_sunrise.png</IconFilename>
-          <InfluenceEngineersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>133346</TextOverride>
@@ -448,7 +449,7 @@
           <GUID>1500011659</GUID>
           <Name>absynthe bar</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/production_goods/icon_absinthe.png</IconFilename>
-          <InfluenceEngineersUp />
+          <NeighborLevel>Engineer</NeighborLevel>
         </Standard>
         <Text>
           <TextOverride>6137</TextOverride>

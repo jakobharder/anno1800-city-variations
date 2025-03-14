@@ -2,15 +2,31 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
       <GUID>1500010868</GUID>
-      <Text>쇼핑가</Text> <!-- menu: commercial street -->
+      <Text>쇼핑가</Text>
     </Text>
     <Text>
       <GUID>1500010888</GUID>
-      <Text>매장 창고</Text> <!-- building: warehouse -->
+      <Text>매장 창고</Text>
     </Text>
     <Text>
       <GUID>1500010909</GUID>
-      <Text>장식 매장</Text> <!-- building: ornamental store -->
+      <Text>장식 매장</Text>
+    </Text>
+    <Text>
+      <GUID>1500011673</GUID>
+      <Text>주거 블록에 적응합니다</Text>
+    </Text>
+    <Text>
+      <GUID>1500011674</GUID>
+      <Text>3×3 건물은 더 작은 면적을 위해 범위, 생산성 및 유지 관리를 희생합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1500011675</GUID>
+      <Text>처리 속도</Text>
+    </Text>
+    <Text>
+      <GUID>1500011677</GUID>
+      <Text>일관성을 좋아하기 때문에 색상을 맞춥니다.</Text>
     </Text>
   </ModOp>
 </ModOps>

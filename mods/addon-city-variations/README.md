@@ -73,6 +73,7 @@ The roofs are colored in realtime for reduced memory usage and better performanc
 
 ### 1.2
 
+- 1.2.1: Fix missing icons
 - Added 3x3 restaurants, cafes and bars.
 - 3x6 courtyard restaurant is deprecated. You can still copy or stamp it, but it has been removed from the construction menu.
 - Malls and restaurants are group in the construction menu now (even without the mod `UI Compact Menu`)

@@ -1,9 +1,9 @@
 {
-  "Version": "1.1.4",
+  "Version": "1.2.0",
   "ModID": "jakob-city-variations",
   "ModioResourceId": 3229836,
   "ModDependencies": [
-    "https://github.com/anno-mods/shared-resources/releases/download/v10.5/shared-pools-and-definitions.zip"
+    "https://github.com/anno-mods/shared-resources/releases/download/v10.7/shared-pools-and-definitions.zip"
   ],
   "DeprecateIds": [
     "skin-everything-skin-pack-jakob"
@@ -12,8 +12,9 @@
     "shared-pools-and-definitions"
   ],
   "bundle": [
-    "https://github.com/jakobharder/anno1800-shared-mods/releases/download/v4.5.6/decals-industry-jakob.zip",
-    "https://github.com/jakobharder/anno1800-shared-mods/releases/download/v4.5.6/decals-city-jakob.zip",
+    "https://github.com/jakobharder/anno1800-shared-mods/releases/download/v4.8/decals-industry-jakob.zip",
+    "https://github.com/jakobharder/anno1800-shared-mods/releases/download/v4.8/decals-city-jakob.zip",
+    "https://github.com/jakobharder/anno1800-shared-mods/releases/download/v4.8/neighbors-jakob.zip",
     "../../sub/hotels-jakob",
     "../../sub/diagonal-ornaments-jakob",
     "../../sub/ow-commercial-jakob",

@@ -14,8 +14,6 @@ These are your options:
 All mods are compatible previous versions and can be added to existing savegames.
 Smaller rebalancing may happen and will be listed in the changelogs for you to adjust.
 
-See full [changelog](./doc/CHANGELOG.md).
-
 ## `Jakob's City Variations`
 
 ![](./doc/city-variations.jpg)
@@ -26,11 +24,12 @@ Add more variety to your cities with skins, variations and non-gameplay changing
 
 - Small Hotel OW, 4 variants and many skins
 - Small Hotel NW, if played with [New World Tourism](https://github.com/anno-mods/New-World-Tourism)
-- Small Department, Furniture and Drug Store
-- Small Store Warehouse (+ skins for all mall types)
-- Small Ornamental mall (+ skins for all mall types)
-- Small Courtyard Restaurant
 - Small Post Office
+
+- 3x3 Department, Furniture and Drug Store
+- 3x3 Store Warehouse (+ skins for all mall types)
+- 3x3 Ornamental mall (+ skins for all mall types)
+- 3x3 Restaurant, Cafe and Bar
 
 ### Skins
 

@@ -1,23 +1,23 @@
 {
-  "Version": "1.7.3",
+  "Version": "1.8.0",
   "ModID": "ow-commercial-jakob",
   "DeprecateIds": [
     "jakob_small_malls"
   ],
   "ModDependencies": [
     "decals-city-jakob",
-    "shared-pools-and-definitions"
+    "shared-pools-and-definitions",
+    "neighbors-jakob"
   ],
   "LoadAfterIds": [
     "shared-pools-and-definitions",
-    "lion053_downtown"
+    "lion053_downtown",
+    "jakob_terraced_houses"
   ],
   "Category": {
-    "Chinese": "建筑",
     "English": "Building"
   },
   "ModName": {
-    "Chinese": "商业街(Jakob)",
     "English": "Commercial Street (Jakob)"
   },
   "DLCDependencies": [
@@ -31,5 +31,5 @@
     }
   ],
   "CreatorName": "Jakob",
-  "CreatorContact": "https://github.com/jakobharder/anno-1800-jakobs-mods"
+  "CreatorContact": "https://github.com/jakobharder/anno1800-city-variations"
 }

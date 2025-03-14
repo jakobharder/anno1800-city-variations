@@ -23,10 +23,10 @@ The small hotels and normal hotel skins can be used in the New World if you use 
 
 The buildings function and unlock the same as their normal counterparts, but with decreased range. The buildings do not count as quest objectives.
 
-- Department, Furniture and Drug Store
+- Department, Furniture and Drug Store (-25 range, 25% consumpion)
 - Store Warehouse (+ skins for all mall types)
 - Ornamental mall (+ skins for all mall types)
-- Courtyard Restaurant
+- Restaurant, Cafe and Bar (-5 range)
 
 Only with DLC `The High Life` and DLC `Tourist Season`.
 Can be disabled with iMYA tweaks.
@@ -71,8 +71,17 @@ The roofs are colored in realtime for reduced memory usage and better performanc
 
 ## Changes
 
+### 1.2
+
+- Added 3x3 restaurants, cafes and bars.
+- 3x6 courtyard restaurant is deprecated. You can still copy or stamp it, but it has been removed from the construction menu.
+- Malls and restaurants are group in the construction menu now (even without the mod `UI Compact Menu`)
+- Improved construction menu InfoTips
+- Fixed various 3x3 warehouse issues
+
 ### 1.1
 
+- 1.1.5: Use Brick Post Office as default skin
 - 1.1.4: Include commercial street buildings in Lion's Downtown menu
 - 1.1.4: Fixed missing lights of the scholar townhall
 - 1.1.1: Update Brick Post Office props and skin icons

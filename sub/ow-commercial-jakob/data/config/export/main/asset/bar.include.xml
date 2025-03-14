@@ -8,6 +8,10 @@
           <Name>3x3 bar</Name>
           <IconFilename>data/ui/jakob/icon_bar_3x3.png</IconFilename>
         </Standard>
+        <Building>
+          <PickingAsset>1500011652</PickingAsset>
+          <InfluencedByEngineersUp />
+        </Building>
         <Object>
           <Variations>
             <Item>
@@ -44,6 +48,7 @@
           <GUID>1500011654</GUID>
           <Name>daiquiri bar</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/recipes/icon_daiquiri_tropic.png</IconFilename>
+          <InfluenceEngineersUp />
         </Standard>
         <Text>
           <TextOverride>132752</TextOverride>
@@ -123,6 +128,7 @@
           <GUID>1500011655</GUID>
           <Name>muscovy bar</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/recipes/icon_black_muscovy.png</IconFilename>
+          <InfluenceEngineersUp />
         </Standard>
         <Text>
           <TextOverride>133342</TextOverride>
@@ -202,6 +208,7 @@
           <GUID>1500011656</GUID>
           <Name>montmatre bar</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/recipes/icon_montmatre.png</IconFilename>
+          <InfluenceEngineersUp />
         </Standard>
         <Text>
           <TextOverride>133343</TextOverride>
@@ -281,6 +288,7 @@
           <GUID>1500011657</GUID>
           <Name>glog bar</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/recipes/icon_glogg.png</IconFilename>
+          <InfluenceEngineersUp />
         </Standard>
         <Text>
           <TextOverride>133345</TextOverride>
@@ -358,8 +366,9 @@
       <Values>
         <Standard>
           <GUID>1500011658</GUID>
-          <Name>banana cafe</Name>
+          <Name>banana bar</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/recipes/icon_enbesa_sunrise.png</IconFilename>
+          <InfluenceEngineersUp />
         </Standard>
         <Text>
           <TextOverride>133346</TextOverride>
@@ -437,8 +446,9 @@
       <Values>
         <Standard>
           <GUID>1500011659</GUID>
-          <Name>ice cafe</Name>
+          <Name>absynthe bar</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/production_goods/icon_absinthe.png</IconFilename>
+          <InfluenceEngineersUp />
         </Standard>
         <Text>
           <TextOverride>6137</TextOverride>
@@ -931,32 +941,5 @@
         <TriggerSetup />
       </Values>
     </Asset>
-  </ModOp>
-
-  <!-- # add neighbor influences -->
-  <ModOp GUID="1010346,1010347,1500011632" Type="add"
-    Condition="~"
-    Path="/Values/Building/InfluencedByNeighbors">
-    <Item>
-      <Building>1500011651</Building>
-    </Item>
-    <Item>
-      <Building>1500011654</Building>
-    </Item>
-    <Item>
-      <Building>1500011655</Building>
-    </Item>
-    <Item>
-      <Building>1500011656</Building>
-    </Item>
-    <Item>
-      <Building>1500011657</Building>
-    </Item>
-    <Item>
-      <Building>1500011658</Building>
-    </Item>
-    <Item>
-      <Building>1500011659</Building>
-    </Item>
   </ModOp>
 </ModOps>

@@ -8,6 +8,7 @@
           <GUID>1500010856</GUID>
           <Name>furniture_blank</Name>
           <IconFilename>data/ui/jakob/icon_furniture_3x3.png</IconFilename>
+          <InfluenceFarmersUp />
         </Standard>
         <Text>
           <TextOverride>135099</TextOverride>
@@ -53,6 +54,7 @@
           <GUID>1500010857</GUID>
           <Name>furniture_lamp</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_bankerlamp.png</IconFilename>
+          <InfluenceFarmersUp />
         </Standard>
         <Text>
           <TextOverride>135105</TextOverride>
@@ -134,6 +136,7 @@
           <GUID>1500010858</GUID>
           <Name>furniture_screen</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_paravent.png</IconFilename>
+          <InfluenceFarmersUp />
         </Standard>
         <Text>
           <TextOverride>135121</TextOverride>
@@ -198,6 +201,7 @@
           <GUID>1500010859</GUID>
           <Name>furniture_desk</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_secretary.png</IconFilename>
+          <InfluenceFarmersUp />
         </Standard>
         <Text>
           <TextOverride>135120</TextOverride>
@@ -262,6 +266,7 @@
           <GUID>1500010860</GUID>
           <Name>furniture_bed</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_canopy.png</IconFilename>
+          <InfluenceFarmersUp />
         </Standard>
         <Text>
           <TextOverride>135122</TextOverride>
@@ -326,6 +331,7 @@
           <GUID>1500010861</GUID>
           <Name>furniture_chair</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_chesterfield.png</IconFilename>
+          <InfluenceFarmersUp />
         </Standard>
         <Text>
           <TextOverride>135123</TextOverride>

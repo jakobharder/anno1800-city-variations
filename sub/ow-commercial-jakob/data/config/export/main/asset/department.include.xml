@@ -16,6 +16,7 @@
         <Building>
           <PickingAsset>1500010850</PickingAsset>
           <BuildingCategoryName>1500010058</BuildingCategoryName>
+          <InfluencedByFarmersUp />
         </Building>
         <Object>
           <Variations>
@@ -43,7 +44,7 @@
           <Murmur>HighLife_Mall_Homeware</Murmur>
         </AmbientMoodProvider>
         <FactoryBase>
-          <CycleTime>480</CycleTime>
+          <CycleTime>360</CycleTime>
           <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
           <ClampedMaxTransporterLogisticCost>30</ClampedMaxTransporterLogisticCost>
         </FactoryBase>
@@ -75,6 +76,7 @@
           <GUID>1500010851</GUID>
           <Name>department_toaster</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_toaster.png</IconFilename>
+          <InfluenceFarmersUp />
         </Standard>
         <Text>
           <TextOverride>135103</TextOverride>
@@ -156,6 +158,7 @@
           <GUID>1500010852</GUID>
           <Name>department_vacuumcleaner</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_vacuumcleaner.png</IconFilename>
+          <InfluenceFarmersUp />
         </Standard>
         <Text>
           <TextOverride>135188</TextOverride>
@@ -220,6 +223,7 @@
           <GUID>1500010853</GUID>
           <Name>department_tableware</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_dishes.png</IconFilename>
+          <InfluenceFarmersUp />
         </Standard>
         <Text>
           <TextOverride>135187</TextOverride>
@@ -284,6 +288,7 @@
           <GUID>1500010854</GUID>
           <Name>department_fridge</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_refrigerator.png</IconFilename>
+          <InfluenceFarmersUp />
         </Standard>
         <Text>
           <TextOverride>135189</TextOverride>
@@ -350,6 +355,7 @@
           <GUID>1500010855</GUID>
           <Name>department_bags</Name>
           <IconFilename>data/ui/2kimages/main/3dicons/goods_highlife/icon_suitcase.png</IconFilename>
+          <InfluenceFarmersUp />
         </Standard>
         <Text>
           <TextOverride>135190</TextOverride>
@@ -572,12 +578,6 @@
                       </Item>
                       <Item>
                         <Asset>1500010875</Asset>
-                      </Item>
-                      <Item>
-                        <Asset>1500010856</Asset>
-                      </Item>
-                      <Item>
-                        <Asset>1500010862</Asset>
                       </Item>
                     </UnhideAssets>
                   </ActionUnlockAsset>

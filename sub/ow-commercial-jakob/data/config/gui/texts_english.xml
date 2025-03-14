@@ -12,5 +12,17 @@
       <GUID>1500010909</GUID>
       <Text>Ornamental Store</Text> <!-- building: ornamental store -->
     </Text>
+    <Text>
+      <GUID>1500011673</GUID>
+      <Text>Adapts to Residential Blocks</Text>
+    </Text>
+    <Text>
+      <GUID>1500011674</GUID>
+      <Text>3×3 buildings sacrifice range, productivity and maintenance for a smaller footprint.</Text>
+    </Text>
+    <Text>
+      <GUID>1500011675</GUID>
+      <Text>Processing Speed</Text>
+    </Text>
   </ModOp>
 </ModOps>

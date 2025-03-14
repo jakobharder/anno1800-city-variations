@@ -8,6 +8,8 @@
   <Include File="./furniture.include.xml" />
   <Include File="./drug.include.xml" />
 
+  <Include File="./ow-dlc.include.xml" Condition="!#jakob_compact_menus" />
+
   <ModOp Type="addNextSibling" GUID="1010346">
     <Asset>
       <Template>Text</Template>
@@ -40,133 +42,6 @@
     </Asset>
   </ModOp>
 
-  <!-- # neighbors, target pools, ... -->
-  <!-- add neighbor influences -->
-  <ModOp GUID="1010346,1010347,1500011613" Type="add" Path="/Values/Building/InfluencedByNeighbors">
-    <Item>
-      <Building>1500010850</Building>
-    </Item>
-    <Item>
-      <Building>1500010851</Building>
-    </Item>
-    <Item>
-      <Building>1500010852</Building>
-    </Item>
-    <Item>
-      <Building>1500010853</Building>
-    </Item>
-    <Item>
-      <Building>1500010854</Building>
-    </Item>
-    <Item>
-      <Building>1500010855</Building>
-    </Item>
-    <Item>
-      <Building>1500010856</Building>
-    </Item>
-    <Item>
-      <Building>1500010857</Building>
-    </Item>
-    <Item>
-      <Building>1500010858</Building>
-    </Item>
-    <Item>
-      <Building>1500010859</Building>
-    </Item>
-    <Item>
-      <Building>1500010860</Building>
-    </Item>
-    <Item>
-      <Building>1500010861</Building>
-    </Item>
-    <Item>
-      <Building>1500010862</Building>
-    </Item>
-    <Item>
-      <Building>1500010863</Building>
-    </Item>
-    <Item>
-      <Building>1500010864</Building>
-    </Item>
-    <Item>
-      <Building>1500010865</Building>
-    </Item>
-    <Item>
-      <Building>1500010866</Building>
-    </Item>
-    <Item>
-      <Building>1500010867</Building>
-    </Item>
-    <Item>
-      <Building>1500010888</Building>
-    </Item>
-    <Item>
-      <Building>1500010909</Building>
-    </Item>
-  </ModOp>
-  <!-- add to buff target pools -->
-  <ModOp Type="add" GUID="194025" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
-    <Item>
-      <GUID>1500010850</GUID>
-    </Item>
-    <Item>
-      <GUID>1500010851</GUID>
-    </Item>
-    <Item>
-      <GUID>1500010852</GUID>
-    </Item>
-    <Item>
-      <GUID>1500010853</GUID>
-    </Item>
-    <Item>
-      <GUID>1500010854</GUID>
-    </Item>
-    <Item>
-      <GUID>1500010855</GUID>
-    </Item>
-    <Item>
-      <GUID>1500010856</GUID>
-    </Item>
-    <Item>
-      <GUID>1500010857</GUID>
-    </Item>
-    <Item>
-      <GUID>1500010858</GUID>
-    </Item>
-    <Item>
-      <GUID>1500010859</GUID>
-    </Item>
-    <Item>
-      <GUID>1500010860</GUID>
-    </Item>
-    <Item>
-      <GUID>1500010861</GUID>
-    </Item>
-    <Item>
-      <GUID>1500010862</GUID>
-    </Item>
-    <Item>
-      <GUID>1500010863</GUID>
-    </Item>
-    <Item>
-      <GUID>1500010864</GUID>
-    </Item>
-    <Item>
-      <GUID>1500010865</GUID>
-    </Item>
-    <Item>
-      <GUID>1500010866</GUID>
-    </Item>
-    <Item>
-      <GUID>1500010867</GUID>
-    </Item>
-  </ModOp>
-  <ModOp Type="add" GUID="368" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
-    <Item>
-      <GUID>1500010888</GUID>
-    </Item>
-  </ModOp>
-
   <!-- # Minimall: Warehouse, Ornamental -->
   <ModOp GUID='135210' Type="addNextSibling">
     <Asset>
@@ -182,6 +57,7 @@
           <BuildingType>Logistic</BuildingType>
           <PickingAsset>1500010888</PickingAsset>
           <BuildingCategoryName>1500010058</BuildingCategoryName>
+          <InfluencedByFarmersUp />
         </Building>
         <Selection>
           <GUIType>Warehouse</GUIType>
@@ -279,6 +155,7 @@
           <BuildingType>Other</BuildingType>
           <PickingAsset>1500010909</PickingAsset>
           <BuildingCategoryName>1500010058</BuildingCategoryName>
+          <InfluencedByFarmersUp />
           <VariationIcons>
             <Item>
               <IconFilename>data\jakob\ui\icons\icon_mall_var1.png</IconFilename>
@@ -509,7 +386,4 @@
       </Values>
     </Asset>
   </ModOp>
-
-  <!-- # Construction menu -->
-  <!-- done in parent mod -->
 </ModOps>

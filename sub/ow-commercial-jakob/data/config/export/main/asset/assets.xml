@@ -45,7 +45,7 @@
   <!-- # Minimall: Warehouse, Ornamental -->
   <ModOp GUID='135210' Type="addNextSibling">
     <Asset>
-      <Template>JakobsMallOrnamental</Template>
+      <Template>Warehouse</Template>
       <Values>
         <Standard>
           <GUID>1500010888</GUID>
@@ -57,8 +57,130 @@
         </Standard>
         <Building>
           <BuildingType>Logistic</BuildingType>
-          <PickingAsset>1500010888</PickingAsset>
           <BuildingCategoryName>1500010058</BuildingCategoryName>
+          <PickingAsset>1500010888</PickingAsset>
+          <AssociatedRegions>Moderate</AssociatedRegions>
+          <BuildingBlockPool>
+            <DontCare />
+            <Single>
+              <Pool>
+                <Item>
+                  <Variation>1</Variation>
+                </Item>
+              </Pool>
+            </Single>
+            <Mid>
+              <Pool>
+                <Item>
+                  <Variation>1</Variation>
+                </Item>
+              </Pool>
+            </Mid>
+            <Corner>
+              <Pool>
+                <Item>
+                  <DirectionOffet>1</DirectionOffet>
+                </Item>
+              </Pool>
+            </Corner>
+            <End>
+              <Pool>
+                <Item>
+                  <Variation>2</Variation>
+                </Item>
+              </Pool>
+            </End>
+            <Crossing>
+              <Pool>
+                <Item>
+                  <Variation>3</Variation>
+                </Item>
+              </Pool>
+            </Crossing>
+            <TCrossing>
+              <Pool>
+                <Item>
+                  <Variation>4</Variation>
+                </Item>
+              </Pool>
+            </TCrossing>
+          </BuildingBlockPool>
+          <InfluencedVariationDirection>
+            <Item />
+            <Item>
+              <!-- end, south-west -->
+              <Direction>3</Direction>
+              <Type>End</Type>
+            </Item>
+            <Item>
+              <!-- end, south-east -->
+              <Type>End</Type>
+            </Item>
+            <Item>
+              <!-- corner, south -->
+              <Direction>2</Direction>
+              <Type>Corner</Type>
+            </Item>
+            <Item>
+              <!-- end, north-east -->
+              <Direction>1</Direction>
+              <Type>End</Type>
+            </Item>
+            <Item>
+              <!-- mid, south-west to north-east -->
+              <Direction>1</Direction>
+              <Type>Mid</Type>
+            </Item>
+            <Item>
+              <!-- corner, east -->
+              <Direction>3</Direction>
+              <Type>Corner</Type>
+            </Item>
+            <Item>
+              <!-- T, front facing south-east -->
+              <Direction>3</Direction>
+              <Type>TCrossing</Type>
+            </Item>
+            <Item>
+              <!-- end, north-west -->
+              <Direction>2</Direction>
+              <Type>End</Type>
+            </Item>
+            <Item>
+              <!-- corner, west -->
+              <Direction>1</Direction>
+              <Type>Corner</Type>
+            </Item>
+            <Item>
+              <!-- mid, north-west to south-east -->
+              <Type>Mid</Type>
+            </Item>
+            <Item>
+              <!-- T, front facing south-west  -->
+              <Direction>2</Direction>
+              <Type>TCrossing</Type>
+            </Item>
+            <Item>
+              <!-- corner, north -->
+              <Type>Corner</Type>
+            </Item>
+            <Item>
+              <!-- T, front facing north-west -->
+              <Direction>1</Direction>
+              <Type>TCrossing</Type>
+            </Item>
+            <Item>
+              <!-- T, front facing north-east -->
+              <Type>TCrossing</Type>
+            </Item>
+            <Item>
+              <!-- crossing -->
+              <Type>Crossing</Type>
+            </Item>
+          </InfluencedVariationDirection>
+          <SecondPartyRelevant>0</SecondPartyRelevant>
+          <AllowChangeVariation>1</AllowChangeVariation>
+          <BuildModeRandomRotation>90</BuildModeRandomRotation>
         </Building>
         <Selection>
           <GUIType>Warehouse</GUIType>

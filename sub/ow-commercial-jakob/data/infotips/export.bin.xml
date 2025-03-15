@@ -9,9 +9,7 @@
         <ElementType>
           <ElementType>1</ElementType>
         </ElementType>
-        <CompareOperator>
-          <CompareOperator>4</CompareOperator>
-        </CompareOperator>
+        <CompareOperator />
         <ResultType>
           <ResultType>1</ResultType>
         </ResultType>
@@ -43,9 +41,7 @@
         <ElementType>
           <ElementType>1</ElementType>
         </ElementType>
-        <CompareOperator>
-          <CompareOperator>4</CompareOperator>
-        </CompareOperator>
+        <CompareOperator />
         <ResultType>
           <ResultType>1</ResultType>
         </ResultType>

@@ -685,10 +685,11 @@
           <CycleTime>60</CycleTime>
           <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
           <ClampedMaxTransporterLogisticCost>60</ClampedMaxTransporterLogisticCost>
+          <WarehouseTransporterAsset>120028</WarehouseTransporterAsset>
         </FactoryBase>
         <LogisticNode>
           <ResetOnGUIDChange>1</ResetOnGUIDChange>
-          <TransporterCountMax>0</TransporterCountMax>
+          <TransporterAsset>120028</TransporterAsset>
         </LogisticNode>
         <Maintenance>
           <ConsumerPriority>1</ConsumerPriority>

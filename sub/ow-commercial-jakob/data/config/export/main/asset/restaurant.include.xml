@@ -114,6 +114,9 @@
             </Item>
           </ProductionBuffs>
         </BuffFactory>
+        <BusActivation>
+          <BusNeed>132751</BusNeed>
+        </BusActivation>
       </Values>
     </Asset>
     <Asset>
@@ -201,6 +204,9 @@
             </Item>
           </ProductionBuffs>
         </BuffFactory>
+        <BusActivation>
+          <BusNeed>132751</BusNeed>
+        </BusActivation>
       </Values>
     </Asset>
     <Asset>
@@ -275,6 +281,9 @@
             </Item>
           </ProductionBuffs>
         </BuffFactory>
+        <BusActivation>
+          <BusNeed>132751</BusNeed>
+        </BusActivation>
       </Values>
     </Asset>
     <Asset>
@@ -349,6 +358,9 @@
             </Item>
           </ProductionBuffs>
         </BuffFactory>
+        <BusActivation>
+          <BusNeed>132751</BusNeed>
+        </BusActivation>
       </Values>
     </Asset>
     <Asset>
@@ -423,6 +435,9 @@
             </Item>
           </ProductionBuffs>
         </BuffFactory>
+        <BusActivation>
+          <BusNeed>132751</BusNeed>
+        </BusActivation>
       </Values>
     </Asset>
     <Asset>
@@ -497,6 +512,9 @@
             </Item>
           </ProductionBuffs>
         </BuffFactory>
+        <BusActivation>
+          <BusNeed>132751</BusNeed>
+        </BusActivation>
       </Values>
     </Asset>
     <Asset>

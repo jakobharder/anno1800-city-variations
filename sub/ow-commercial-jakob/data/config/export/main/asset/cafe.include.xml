@@ -43,9 +43,6 @@
         <AmbientMoodProvider>
           <Murmur>Tourist_Cafe</Murmur>
         </AmbientMoodProvider>
-        <BusActivation>
-          <BusNeed>132755</BusNeed>
-        </BusActivation>
       </Values>
     </Asset>
     <Asset>
@@ -120,6 +117,9 @@
             </Item>
           </ProductionBuffs>
         </BuffFactory>
+        <BusActivation>
+          <BusNeed>132755</BusNeed>
+        </BusActivation>
       </Values>
     </Asset>
     <Asset>
@@ -194,6 +194,9 @@
             </Item>
           </ProductionBuffs>
         </BuffFactory>
+        <BusActivation>
+          <BusNeed>132755</BusNeed>
+        </BusActivation>
       </Values>
     </Asset>
     <Asset>
@@ -269,6 +272,9 @@
             </Item>
           </ProductionBuffs>
         </BuffFactory>
+        <BusActivation>
+          <BusNeed>132755</BusNeed>
+        </BusActivation>
       </Values>
     </Asset>
     <Asset>
@@ -343,6 +349,9 @@
             </Item>
           </ProductionBuffs>
         </BuffFactory>
+        <BusActivation>
+          <BusNeed>132755</BusNeed>
+        </BusActivation>
       </Values>
     </Asset>
     <Asset>
@@ -417,6 +426,9 @@
             </Item>
           </ProductionBuffs>
         </BuffFactory>
+        <BusActivation>
+          <BusNeed>132755</BusNeed>
+        </BusActivation>
       </Values>
     </Asset>
     <Asset>
@@ -491,6 +503,9 @@
             </Item>
           </ProductionBuffs>
         </BuffFactory>
+        <BusActivation>
+          <BusNeed>132755</BusNeed>
+        </BusActivation>
       </Values>
     </Asset>
     <Asset>

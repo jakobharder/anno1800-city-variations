@@ -160,6 +160,7 @@
         Path="/Values/ConstructionCategory/BuildingList/Item[Investor&lt;=1][1]">
         <Item>
           <Building>1500011494</Building>
+          <IgnoreUnlockStateForCategoryVisibility>1</IgnoreUnlockStateForCategoryVisibility>
           <Investor>1</Investor>
         </Item>
       </ModOp>

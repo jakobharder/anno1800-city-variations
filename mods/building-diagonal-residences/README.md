@@ -43,6 +43,7 @@ Known issues:
 
 ### 1.10
 
+- 1.10.1: Don't show Investor tab before Investors are unlocked
 - Allow direct construction of investors only with `Instant Residences` mod
 - Updated description
 

@@ -120,10 +120,10 @@
   <!-- # Remove Entries -->
   <Group>
     <!-- OW Tourists -->
-    <ModOp Type="remove" GUID="132779"
+    <ModOp Type="remove" GUID="132779,500094"
       Path="/Values/ConstructionCategory/BuildingList/Item[CompactVenue or CompactHide]" />
     <!-- OW Engineers + Investors -->
-    <ModOp Type="remove" GUID="25000192,500447"
+    <ModOp Type="remove" GUID="25000192,500447,500094"
       Path="/Values/ConstructionCategory/BuildingList/Item[CompactMall or CompactHide]" />
   </Group>
 </ModOps>

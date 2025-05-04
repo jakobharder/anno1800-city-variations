@@ -73,6 +73,7 @@ The roofs are colored in realtime for reduced memory usage and better performanc
 
 ### 1.2
 
+- 1.2.6: Fixed stores missing when playing without Compact Menus
 - 1.2.5: Fixed Tourist need provided by restaurant, etc.
 - 1.2.4: Fixed Restaurant transporter being slow to pick up goods
 - 1.2.3: Fixed "Adapts to Residential Blocks" InfoTip

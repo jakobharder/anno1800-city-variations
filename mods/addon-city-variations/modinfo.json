@@ -1,5 +1,5 @@
 {
-  "Version": "1.2.4",
+  "Version": "1.2.5",
   "ModID": "jakob-city-variations",
   "ModioResourceId": 3229836,
   "ModDependencies": [
@@ -12,9 +12,9 @@
     "shared-pools-and-definitions"
   ],
   "bundle": [
-    "https://github.com/jakobharder/anno1800-shared-mods/releases/download/v4.9.1/decals-industry-jakob.zip",
-    "https://github.com/jakobharder/anno1800-shared-mods/releases/download/v4.9.1/decals-city-jakob.zip",
-    "https://github.com/jakobharder/anno1800-shared-mods/releases/download/v4.9.1/neighbors-jakob.zip",
+    "https://github.com/anno-mods/shared-jakob/releases/download/v4.9.3/decals-industry-jakob.zip",
+    "https://github.com/anno-mods/shared-jakob/releases/download/v4.9.3/decals-city-jakob.zip",
+    "https://github.com/anno-mods/shared-jakob/releases/download/v4.9.3/neighbors-jakob.zip",
     "../../sub/hotels-jakob",
     "../../sub/diagonal-ornaments-jakob",
     "../../sub/ow-commercial-jakob",

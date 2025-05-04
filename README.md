@@ -1,24 +1,18 @@
 # Jakob's City Variations
 
-New population tiers, products, industries and tons of new visual assets (custom models, skins, ...).
-
-## How to Get
-
-These are your options:
-
-- Subscribe at [Mod.io](https://mod.io/g/anno-1800/u/jakobscollection)
-- [Install manually](https://github.com/jakobharder/anno1800-mod-loader#mods) with downloads from [Mod.io](https://mod.io/g/anno-1800/u/jakobscollection) or [GitHub releases](https://github.com/jakobharder/anno-1800-jakobs-mods/releases).
-
-## Changes
-
-All mods are compatible previous versions and can be added to existing savegames.
-Smaller rebalancing may happen and will be listed in the changelogs for you to adjust.
-
-## `Jakob's City Variations`
+Add more variety to your cities with skins, variations and non-gameplay changing buildings.
 
 ![](./doc/city-variations.jpg)
 
-Add more variety to your cities with skins, variations and non-gameplay changing buildings.
+## Download and Description
+
+You can add the mod to an existing save game without any drawbacks.
+
+- Download: [Mod.io](https://mod.io/g/anno-1800/m/jakob-city-variations) or [GitHub releases](https://github.com/jakobharder/anno1800-city-variations/releases)
+- Description: [README](./mods/addon-city-variations/README.md)
+- Changelog: [Changelog](./mods/addon-city-variations/README.md#changes)
+
+## Content
 
 ### Buildings
 
